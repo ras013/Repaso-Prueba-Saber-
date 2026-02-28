@@ -15,7 +15,7 @@ export default function Navbar({ scorePercentage, progressPercentage }: NavbarPr
             <Calculator size={20} />
           </div>
           <span className="font-bold text-xl tracking-tight text-blue-900">
-            Saber Pro <span className="text-blue-500">Matemáticas</span>
+            Repaso <span className="text-blue-500">Cálculo</span>
           </span>
         </div>
         <div className="flex items-center gap-4 text-sm font-bold">
